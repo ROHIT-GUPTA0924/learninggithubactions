@@ -11,7 +11,7 @@ jobs:
             #     echo "${{toJson(github)}}"
             #     git clone https://github.com/${{github.repository}}.git
             - name: install node 20
-              uses: actions/setup-nede@v4
+              uses: actions/setup-node@v4
               with:
                   node-version: 20
             - name: print node version
