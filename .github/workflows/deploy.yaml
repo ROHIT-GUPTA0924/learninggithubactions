@@ -1,4 +1,4 @@
-name: welcome
+name: deploy app
 on: [push, workflow_dispatch]
 jobs:
     test:
