@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://ROHIT-GUPTA0924.github.io/learninggithubactions"
   "scripts": {
     "dev": "vite",
     "build": "vite build",
